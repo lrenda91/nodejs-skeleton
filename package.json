@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-skeleton",
+  "version": "1.0.0",
+  "description": "Nodejs app template",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tolkkiMetal/nodejs-skeleton.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "tolkkiMetal",
+  "license": "ISC"
+}

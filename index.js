@@ -1,3 +1,7 @@
 console.log('Welcome');
 
-console.log(require('./config'));
+var mongo = require('./mongo');
+
+mongo.find({
+	a: 1
+});
